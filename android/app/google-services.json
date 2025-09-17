@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216162466861",
+    "project_id": "mis-project-e2fed",
+    "storage_bucket": "mis-project-e2fed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216162466861:android:0f080fcaad07819190cca4",
+        "android_client_info": {
+          "package_name": "com.example.mis_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg47Aj4Ft6nREIpsoKkHIXmYaB9TuP-h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
