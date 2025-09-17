@@ -29,4 +29,20 @@
 - **Flutter SDK** – за креирање крос-платформска апликација (Android, iOS, Web, Desktop).  
 - **Dart** – програмски јазик кој го користи Flutter.  
 - **Material Design Widgets** – за изградба на UI.  
-- **Navigator API** – за навигација меѓу екрани, служи како рутер за полесно
+- **Navigator API** – за навигација меѓу екрани, служи како рутер за полесно движење напред/назад.  
+- **TextEditingController** – за управување со текстуални полиња (корисничко име, лозинка, држава, причина за отсуство и одвивање на настава).  
+- **pub.dev пакети** – користени за додавање функционалности како календарски полиња, подобрена навигација и дополнителна контрола на формите и контролерите.  
+
+---
+
+## Начин на изработка на проектот
+Најпрво креиравме Figma UI/UX дизајн, кој е претставен подолу со линк. Потоа користевме Flutter документација, pub.dev пакети и YouTube видеа за подобар дизајн. Моменталната апликација не користи API повик бидејќи немаме API од ФИНКИ за корисниците, а базата работи во RAM и е достапна само за еден најавен корисник додека апликацијата е подигната.
+
+---
+
+## Изглед од Figma
+Линк за пристап до Figma:  
+[https://www.figma.com/design/E5x5LBSCi6vDLm1Qy4Dh5x/Test-primer-za-MIS---FINKI?node-id=0-1&t=Drtr4st0s6zAuwYT-1](https://www.figma.com/design/E5x5LBSCi6vDLm1Qy4Dh5x/Test-primer-za-MIS---FINKI?node-id=0-1&t=Drtr4st0s6zAuwYT-1)
+
+Линк за пристап до GitHub репозиториумот:  
+[https://github.com/DejanFilipchev/MIS-Project](https://github.com/DejanFilipchev/MIS-Project)
