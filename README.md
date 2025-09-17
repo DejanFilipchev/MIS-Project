@@ -43,6 +43,3 @@
 ## Изглед од Figma
 Линк за пристап до Figma:  
 [https://www.figma.com/design/E5x5LBSCi6vDLm1Qy4Dh5x/Test-primer-za-MIS---FINKI?node-id=0-1&t=Drtr4st0s6zAuwYT-1](https://www.figma.com/design/E5x5LBSCi6vDLm1Qy4Dh5x/Test-primer-za-MIS---FINKI?node-id=0-1&t=Drtr4st0s6zAuwYT-1)
-
-Линк за пристап до GitHub репозиториумот:  
-[https://github.com/DejanFilipchev/MIS-Project](https://github.com/DejanFilipchev/MIS-Project)
